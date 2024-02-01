@@ -1,3 +1,5 @@
+本示例开源，任何人都可以直接使用
+
 阿里云集成转售主页：
 https://partner.aliyun.com/program/integrationpartner?spm=5176.2020520104.0.0.2ba03f1bojRwO5
 
